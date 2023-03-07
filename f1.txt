@@ -1,4 +1,3 @@
 First file
 Second
-four
 five
